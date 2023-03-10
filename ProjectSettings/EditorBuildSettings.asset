@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/jogo tutorial.unity
+    guid: a4d0c387e4e7adc4d98dfcc72642cd8d
   m_configObjects: {}
